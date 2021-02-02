@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/alexfreetibet">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br />
 <br />
 Привет, меня зовут Саша, и я изучаю программирование на Python. Прокачиваюсь делая своих Discord ботов, десктоп и web-приложения.
 <br />
